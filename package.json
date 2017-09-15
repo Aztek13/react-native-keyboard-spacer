@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer#readme",
   "dependencies": {
-    "react": "=15.4.1",
+    "react": "15.4.1",
   }
 }
